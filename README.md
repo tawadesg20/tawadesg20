@@ -6,8 +6,8 @@
 </p>
 
 <p align="center">
-  <a href="mailto:shivanitawade20@gmail.com"><img src="https://img.shields.io/badge/Email-shivanitawade20@gmail.com-blue?style=flat&logo=gmail"></a>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin"></a>
+  <a href="mailto:tawadeshivani20@gmail.com"><img src="https://img.shields.io/badge/Email-tawadeshivani20@gmail.com-blue?style=flat&logo=gmail"></a>
+  <a href="https://www.linkedin.com/in/shivani-tawade-9a051727b"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin"></a>
   <a href="https://github.com/tawadesg20"><img src="https://img.shields.io/badge/GitHub-tawadesg20-black?logo=github"></a>
 </p>
 
